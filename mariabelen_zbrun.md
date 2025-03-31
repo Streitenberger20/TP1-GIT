@@ -19,7 +19,7 @@ Tecnicatura Universitaria en Programación
 2025 - 2° año
 
 
-## EXPERIENCIA LABORAR
+## EXPERIENCIA LABORAL
 - Gestiones en Ciudadanías Verónica Weiner, Abril 2022 - Abril 2023
 	* Recepción de clientes. 
 	* Asistencia a mesa de entrada.
