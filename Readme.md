@@ -1,4 +1,4 @@
-##**TP GIT**
+## TP GIT
 
 * PERALTA, NICOLAS
 
