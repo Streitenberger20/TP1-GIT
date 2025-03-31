@@ -7,4 +7,5 @@
 	* [CV](https://github.com/Streitenberger20/TP1-GIT/blob/AgustinStreitenberger/CV%20agustin_streitenberger.md)
 
 
-* ZBURN, MARIA BELEN
+* ZBRUN, MARIA BELEN
+	* [CV] (mariabelen_zbrun.md)
