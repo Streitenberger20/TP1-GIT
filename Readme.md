@@ -4,11 +4,11 @@
 
 
 * STREITENBERGER, AGUSTIN
-	* [CV](CV%20agustin_streitenberger.md)
+	* [CV](https://github.com/Streitenberger20/TP1-GIT/blob/AgustinStreitenberger/CV%20agustin_streitenberger.md)
 
 
 * ZBRUN, MARIA BELEN
 	* [CV](mariabelen_zbrun.md)
 
 
-* [LINK A SCRIPT](script.js)
+* [LINK A SCRIPT](https://github.com/Streitenberger20/TP1-GIT/blob/feature_prueba/script.js)
