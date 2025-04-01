@@ -20,9 +20,10 @@ Tecnicatura Universitaria en Programación
 
 
 ## EXPERIENCIA LABORAL
-- Gestiones en Ciudadanías Verónica Weiner, Abril 2022 - Abril 2023
+- Estudio de Abogados, Abril 2022 - Abril 2023
 	* Recepción de clientes. 
 	* Asistencia a mesa de entrada.
 	* Organización de agenda.
 	* Trámites bancarios.
 	* Administración de cuentas.
+- Gestiones en Ciudadanías, Febrero 2024 - Actualmente
